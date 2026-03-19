@@ -1,2 +1,2 @@
-# HOA---Highly-Optimised-ALUs
-No, not the home owners assosiation!
+# HOA - Highly-Optimised-ALUs
+These ALUs you can copy paste anyware!
